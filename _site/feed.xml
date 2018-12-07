@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jekyll-Uno</title>
-    <description>Jekyll-Uno - a minimal, responsive theme for Jekyll</description>
-    <link>http://localhost:4000/jekyll-uno/</link>
-    <atom:link href="http://localhost:4000/jekyll-uno/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 07 Dec 2018 11:59:05 +0800</pubDate>
-    <lastBuildDate>Fri, 07 Dec 2018 11:59:05 +0800</lastBuildDate>
+    <title>Kai Zhang | 张凯</title>
+    <description>EARNED, NOT GIVEN / I AM ALWAYS READY TO ACCEPT CHALLENGE.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 07 Dec 2018 19:25:10 +0800</pubDate>
+    <lastBuildDate>Fri, 07 Dec 2018 19:25:10 +0800</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Fri, 08 Jan 2016 23:04:23 +0800</pubDate>
-        <link>http://localhost:4000/jekyll-uno/2016/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-uno/2016/welcome-to-jekyll/</guid>
+        <link>http://localhost:4000/2016/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/welcome-to-jekyll/</guid>
         
         <category>jekyll</category>
         
