@@ -1,18 +1,18 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
+title: Kai Zhang | 张凯
+description: 'EARNED NOT GIVEN / I AM ALWAYS READY TO ACCEPT CHALLENGE.'
+url: 'https://1146976048qq.github.io'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Kai Zhang'
+  email: sa517494@mail.ustc.edu.cn
+  twitter_username: zhangyooo
+  facebook_username: zhangyoooo
+  github_username:  1146976048qq
+  linkedin_username:  Kai Zhang
 
 defaults:
   -
