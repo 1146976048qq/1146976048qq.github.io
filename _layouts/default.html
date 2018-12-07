@@ -1,28 +1,16 @@
----
-layout: compress
----
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
-  <meta name=viewport content="width=device-width, initial-scale=1">
+<html>
+  {% include head.html %}
 
-  <meta name=description content="{{ site.bio }}">
-  <meta name=author content="{{ site.name }}">
+  <body>
+    {% include header.html %}
 
-  {% seo %}
+    <div class="content-wrapper">
+      <div class="content-wrapper__inner">
+        {{ content }}
+      </div>
 
-  {% include favicon.html %}
-
-  <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
-
-  <style>
-    {% capture scss_sheet %}{% include style.scss %}{% endcapture %}
-    {{ scss_sheet | scssify }}
-  </style>
-</head>
-<body>
-  {{ content }}
-</body>
+      {% include footer.html %}
+    </div>
+  </body>
 </html>
