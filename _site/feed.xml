@@ -5,14 +5,14 @@
     <description>EARNED NOT GIVEN / I AM ALWAYS READY TO ACCEPT CHALLENGE.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 09 Dec 2018 14:17:22 +0800</pubDate>
-    <lastBuildDate>Sun, 09 Dec 2018 14:17:22 +0800</lastBuildDate>
+    <pubDate>Sun, 09 Dec 2018 17:52:16 +0800</pubDate>
+    <lastBuildDate>Sun, 09 Dec 2018 17:52:16 +0800</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
         <title>HomePage</title>
-        <description>&lt;p&gt;&lt;strong&gt;Kai Zhang（张凯）&lt;/strong&gt;&lt;br /&gt;
-&lt;strong&gt;M.s , Graduate Student&lt;/strong&gt;&lt;br /&gt;&lt;/p&gt;
+        <description>&lt;h4 id=&quot;kai-zhang张凯&quot;&gt;Kai Zhang（张凯)&lt;br /&gt;&lt;/h4&gt;
+&lt;h4 id=&quot;ms--graduate-student&quot;&gt;M.s , Graduate Student&lt;br /&gt;&lt;/h4&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://bigdata.ustc.edu.cn/&quot;&gt;&lt;u&gt;Anhui Province Key Laboratory of Big Data Analysis and Application,&lt;/u&gt;&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://www.ustc.edu.cn/&quot;&gt;&lt;u&gt;University of Science and Technology of China &lt;/u&gt;(&lt;u&gt;USTC&lt;/u&gt;).&lt;/a&gt;&lt;/p&gt;
@@ -22,7 +22,12 @@
 &lt;p&gt;Room 205, Science and Technology Laboratory Building, West Campus,&lt;br /&gt;
 USTC, Hefei, Anhui, China, 230027&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Publications&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;em&gt;&lt;strong&gt;Kai Zhang&lt;/strong&gt;&lt;/em&gt;, Hefu Zhang, Qi Liu, Hongke Zhao, Hengshu Zhu, Enhong Chen. &lt;a href=&quot;https://drive.google.com/file/d/1ly16bcOwTjgcogafxMqh0xYBpIniVOSb/view?usp=sharing&quot;&gt;&lt;em&gt;Interactive Attention Transfer Network for Cross-domain Sentiment Classification&lt;/em&gt;&lt;/a&gt;, The 33th AAAI Conference on Artificial Intelligence(&lt;em&gt;&lt;strong&gt;AAAI’2019&lt;/strong&gt;&lt;/em&gt;), Honolulu, Hawaii, United states, 2019.1.27-2019.2.2&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;strong&gt;Kai Zhang&lt;/strong&gt;&lt;/em&gt;, Hongke Zhao, Qi Liu, Zhen Pan, Enhong Chen. &lt;a href=&quot;https://drive.google.com/file/d/1xs8nWJAfYYDF8EyliiOmnp66U2gNbix1/view?usp=sharing&quot;&gt;&lt;em&gt;A Dynamic and Cooperative Tracking System for Crowdfunding&lt;/em&gt;&lt;/a&gt;, The 35th IEEE International Conference on Data Engineering, &lt;strong&gt;&lt;em&gt;ICDE(under review), 2019&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 
