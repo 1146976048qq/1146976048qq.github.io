@@ -5,8 +5,8 @@
     <description>EARNED NOT GIVEN / I AM ALWAYS READY TO ACCEPT CHALLENGE.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 09 Dec 2018 21:30:40 +0800</pubDate>
-    <lastBuildDate>Sun, 09 Dec 2018 21:30:40 +0800</lastBuildDate>
+    <pubDate>Sun, 09 Dec 2018 21:38:57 +0800</pubDate>
+    <lastBuildDate>Sun, 09 Dec 2018 21:38:57 +0800</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -57,7 +57,8 @@ USTC, Hefei, Anhui, China, 230027&lt;/p&gt;
   &lt;li&gt;Teaching Assistant, Introduction to Data Science (Prof. &lt;a href=&quot;http://staff.ustc.edu.cn/~qiliuql/&quot;&gt;Qi Liu&lt;/a&gt;), Undergraduate Course in USTC, Fall 2017/2018.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Intro: I am currently a second-year graduate student and a member of [Anhui Province Key Laboratory of Big Data Analysis and Application][1-bigdata]. My current research interests are data mining and machine learning, especially financial data analysis and natural language processing.
+&lt;!-- Intro: I am currently a second-year graduate student and a member of [Anhui Province Key Laboratory of Big Data Analysis and Application][1-bigdata]. My current research interests are data mining and machine learning, especially financial data analysis and natural language processing. --&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Intro: I am currently a second-year graduate student and a member of Anhui Province Key Laboratory of Big Data Analysis and Application. My current research interests are data mining and machine learning, especially financial data analysis and natural language processing.
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;!-- 链接_Info --&gt;

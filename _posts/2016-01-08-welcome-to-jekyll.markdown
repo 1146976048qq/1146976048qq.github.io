@@ -44,9 +44,9 @@ USTC, Hefei, Anhui, China, 230027
 - Teaching Assistant, Introduction to Data Science (Prof. [Qi Liu][1-liuqi]), Undergraduate Course in USTC, Fall 2017/2018.
 
 
-
+<!-- Intro: I am currently a second-year graduate student and a member of [Anhui Province Key Laboratory of Big Data Analysis and Application][1-bigdata]. My current research interests are data mining and machine learning, especially financial data analysis and natural language processing. -->
 ``` 
-Intro: I am currently a second-year graduate student and a member of [Anhui Province Key Laboratory of Big Data Analysis and Application][1-bigdata]. My current research interests are data mining and machine learning, especially financial data analysis and natural language processing.
+Intro: I am currently a second-year graduate student and a member of Anhui Province Key Laboratory of Big Data Analysis and Application. My current research interests are data mining and machine learning, especially financial data analysis and natural language processing.
 ```
 
 
