@@ -21,8 +21,11 @@ USTC, Hefei, Anhui, China, 230027
 
 **Publications**
 - _**Kai Zhang**_, Hefu Zhang, Qi Liu, Hongke Zhao, Hengshu Zhu, Enhong Chen. [_Interactive Attention Transfer Network for Cross-domain Sentiment Classification_][1-paper-aaai], The 33th AAAI Conference on Artificial Intelligence(_**AAAI'2019**_), Honolulu, Hawaii, United states, 2019.1.27-2019.2.2
+
 - _**Kai Zhang**_, Hongke Zhao, Qi Liu, Zhen Pan, Enhong Chen. [_A Dynamic and Cooperative Tracking System for Crowdfunding_][2-paper-icde], The 35th IEEE International Conference on Data Engineering, **_ICDE(under review), 2019_** [_[Video]_][2-paper-icde-video]
+
 - Enhong Chen, Qi Liu, _**Kai Zhang**_, Hongke Zhao, Hefu Zhang. [_A Method and Related Device for Cross-domain Sentiment Classification_][3-patent-aaai], MP 1825101. _[**Patent**]_
+
 - Enhong Chen, Qi Liu, Zheng Li, Hongke Zhao, _**Kai Zhang**_, [_A sequence recommendation method based on user behavior difference modeling_][4-patent-kdd], Patent No.201810414330.3. _[**Patent**]_ [_[Video]_][5-patent-kdd-video]
 
 * * * 
@@ -64,6 +67,7 @@ Intro: I am currently a second-year graduate student and a member of Anhui Provi
 [2-paper-icde-video]:   https://www.youtube.com/watch?v=ZV9kWKkX7Z8
 [3-patent-aaai]:   https://drive.google.com/open?id=1tpVaexAJwHwhNcR2ic_VdJMXcWXwIGTY
 [4-patent-kdd]:    https://arxiv.org/pdf/1808.01075.pdf
+<!-- [4-patent-kdd]:    http://www.soopat.com/Patent/201810414330 -->
 [5-patent-kdd-video]:   https://www.youtube.com/watch?v=GJDuBoDlMQw
 
 <!-- 链接_Experience -->
