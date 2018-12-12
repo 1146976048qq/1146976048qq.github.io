@@ -5,8 +5,8 @@
     <description>EARNED NOT GIVEN / I AM ALWAYS READY TO ACCEPT CHALLENGE.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 10 Dec 2018 17:02:36 +0800</pubDate>
-    <lastBuildDate>Mon, 10 Dec 2018 17:02:36 +0800</lastBuildDate>
+    <pubDate>Wed, 12 Dec 2018 19:05:25 +0800</pubDate>
+    <lastBuildDate>Wed, 12 Dec 2018 19:05:25 +0800</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -14,7 +14,7 @@
         <description>&lt;h4 id=&quot;kai-zhang张凯&quot;&gt;Kai Zhang（张凯)&lt;br /&gt;&lt;/h4&gt;
 &lt;h4 id=&quot;ms--graduate-student&quot;&gt;M.s , Graduate Student&lt;br /&gt;&lt;/h4&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://sds.ustc.edu.cn/&quot;&gt;&lt;u&gt;Anhui Province Key Laboratory of Big Data Analysis and Application,&lt;/u&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&quot;http://bigdata.ustc.edu.cn/&quot;&gt;&lt;u&gt;Anhui Province Key Laboratory of Big Data Analysis and Application,&lt;/u&gt;&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://www.ustc.edu.cn/&quot;&gt;&lt;u&gt;University of Science and Technology of China &lt;/u&gt;(&lt;u&gt;USTC&lt;/u&gt;).&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Email: &lt;a href=&quot;mailto:sa517494@mail.ustc.edu.cn&quot;&gt;&lt;u&gt;sa517494&lt;/u&gt;@&lt;u&gt;mail.ustc.edu.cn&lt;/u&gt;&lt;/a&gt;,   &lt;a href=&quot;mailto:kkzhang0808@gmail.com&quot;&gt;&lt;u&gt;kkzhang0808&lt;u&gt;@&lt;/u&gt;gmail.com&lt;/u&gt;&lt;/a&gt;
@@ -38,7 +38,7 @@ USTC, Hefei, Anhui, China, 230027&lt;/p&gt;
     &lt;p&gt;Enhong Chen, Qi Liu, &lt;em&gt;&lt;strong&gt;Kai Zhang&lt;/strong&gt;&lt;/em&gt;, Hongke Zhao, Hefu Zhang. &lt;a href=&quot;https://drive.google.com/open?id=1tpVaexAJwHwhNcR2ic_VdJMXcWXwIGTY&quot;&gt;&lt;em&gt;A Method and Related Device for Cross-domain Sentiment Classification&lt;/em&gt;&lt;/a&gt;, MP 1825101. &lt;em&gt;[&lt;strong&gt;Patent&lt;/strong&gt;]&lt;/em&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;Enhong Chen, Qi Liu, Zheng Li, Hongke Zhao, &lt;em&gt;&lt;strong&gt;Kai Zhang&lt;/strong&gt;&lt;/em&gt;, &lt;a href=&quot;https://arxiv.org/pdf/1808.01075.pdf&quot;&gt;&lt;em&gt;A sequence recommendation method based on user behavior difference modeling&lt;/em&gt;&lt;/a&gt;, Patent No.201810414330.3. &lt;em&gt;[&lt;strong&gt;Patent&lt;/strong&gt;]&lt;/em&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=GJDuBoDlMQw&quot;&gt;&lt;em&gt;[Video]&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;Enhong Chen, Qi Liu, Zheng Li, Hongke Zhao, &lt;em&gt;&lt;strong&gt;Kai Zhang&lt;/strong&gt;&lt;/em&gt;, &lt;a href=&quot;http://www.soopat.com/Patent/201810414330&quot;&gt;&lt;em&gt;A sequence recommendation method based on user behavior difference modeling&lt;/em&gt;&lt;/a&gt;, Patent No.201810414330.3. &lt;em&gt;[&lt;strong&gt;Patent&lt;/strong&gt;]&lt;/em&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=GJDuBoDlMQw&quot;&gt;&lt;em&gt;[Video]&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -74,7 +74,7 @@ USTC, Hefei, Anhui, China, 230027&lt;/p&gt;
 &lt;!-- 链接_Info --&gt;
 
 &lt;!-- 链接_Publications --&gt;
-&lt;!-- [4-patent-kdd]:    http://www.soopat.com/Patent/201810414330 --&gt;
+&lt;!-- [4-patent-kdd]:    https://arxiv.org/pdf/1808.01075.pdf --&gt;
 
 &lt;!-- 链接_Experience --&gt;
 

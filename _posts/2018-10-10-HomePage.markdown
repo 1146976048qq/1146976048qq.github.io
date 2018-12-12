@@ -6,7 +6,7 @@ title:  "HomePage"
 #### Kai Zhang（张凯)<br>
 #### M.s , Graduate Student<br>
 
-[<u>Anhui Province Key Laboratory of Big Data Analysis and Application,</u>][1-bigdata]<br>
+[<u>Anhui Province Key Laboratory of Big Data Analysis and Application,</u>][1-bigdata-lab]<br>
 [<u>University of Science and Technology of China </u>(<u>USTC</u>).][2-USTC]
 
 Email: [<u>sa517494</u>@<u>mail.ustc.edu.cn</u>][3-sa517494],   [<u>kkzhang0808<u>@</u>gmail.com</u>][4-gmail]
@@ -56,7 +56,7 @@ Intro: I am currently a second-year graduate student and a member of Anhui Provi
 
 
 <!-- 链接_Info -->
-[1-bigdata]:  http://bigdata.ustc.edu.cn/
+[1-bigdata-lab]:  http://bigdata.ustc.edu.cn/
 [2-USTC]:  http://www.ustc.edu.cn/
 [3-sa517494]:  mailto:sa517494@mail.ustc.edu.cn
 [4-gmail]:  mailto:kkzhang0808@gmail.com
@@ -66,8 +66,8 @@ Intro: I am currently a second-year graduate student and a member of Anhui Provi
 [2-paper-icde]:    https://drive.google.com/file/d/1xs8nWJAfYYDF8EyliiOmnp66U2gNbix1/view?usp=sharing
 [2-paper-icde-video]:   https://www.youtube.com/watch?v=ZV9kWKkX7Z8
 [3-patent-aaai]:   https://drive.google.com/open?id=1tpVaexAJwHwhNcR2ic_VdJMXcWXwIGTY
-[4-patent-kdd]:    https://arxiv.org/pdf/1808.01075.pdf
-<!-- [4-patent-kdd]:    http://www.soopat.com/Patent/201810414330 -->
+<!-- [4-patent-kdd]:    https://arxiv.org/pdf/1808.01075.pdf -->
+[4-patent-kdd]:    http://www.soopat.com/Patent/201810414330
 [5-patent-kdd-video]:   https://www.youtube.com/watch?v=GJDuBoDlMQw
 
 <!-- 链接_Experience -->
