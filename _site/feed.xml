@@ -5,8 +5,8 @@
     <description>EARNED NOT GIVEN / I AM ALWAYS READY TO ACCEPT CHALLENGE.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 12 Dec 2018 19:05:25 +0800</pubDate>
-    <lastBuildDate>Wed, 12 Dec 2018 19:05:25 +0800</lastBuildDate>
+    <pubDate>Wed, 12 Dec 2018 19:31:00 +0800</pubDate>
+    <lastBuildDate>Wed, 12 Dec 2018 19:31:00 +0800</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -29,7 +29,7 @@ USTC, Hefei, Anhui, China, 230027&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Publications&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;&lt;strong&gt;Kai Zhang&lt;/strong&gt;&lt;/em&gt;, Hefu Zhang, Qi Liu, Hongke Zhao, Hengshu Zhu, Enhong Chen. &lt;a href=&quot;https://drive.google.com/file/d/1ly16bcOwTjgcogafxMqh0xYBpIniVOSb/view?usp=sharing&quot;&gt;&lt;em&gt;Interactive Attention Transfer Network for Cross-domain Sentiment Classification&lt;/em&gt;&lt;/a&gt;, The 33th AAAI Conference on Artificial Intelligence(&lt;em&gt;&lt;strong&gt;AAAI’2019&lt;/strong&gt;&lt;/em&gt;), Honolulu, Hawaii, United states, 2019.1.27-2019.2.2&lt;/p&gt;
+    &lt;p&gt;&lt;em&gt;&lt;strong&gt;Kai Zhang&lt;/strong&gt;&lt;/em&gt;, Hefu Zhang, Qi Liu, Hongke Zhao, Hengshu Zhu, Enhong Chen. &lt;a href=&quot;https://drive.google.com/file/d/1ly16bcOwTjgcogafxMqh0xYBpIniVOSb/view?usp=sharing&quot;&gt;&lt;em&gt;Interactive Attention Transfer Network for Cross-domain Sentiment Classification&lt;/em&gt;&lt;/a&gt;, The 33th AAAI Conference on Artificial Intelligence(&lt;em&gt;&lt;strong&gt;AAAI’2019&lt;/strong&gt;&lt;/em&gt;), Honolulu, Hawaii, United states, 2019.1.27-2019.2.2 &lt;a href=&quot;https://drive.google.com/file/d/1efIzwDnLP1CUylCG_SNoksN8xOVLesrR/view&quot;&gt;&lt;em&gt;[Slide]&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;em&gt;&lt;strong&gt;Kai Zhang&lt;/strong&gt;&lt;/em&gt;, Hongke Zhao, Qi Liu, Zhen Pan, Enhong Chen. &lt;a href=&quot;https://drive.google.com/file/d/1xs8nWJAfYYDF8EyliiOmnp66U2gNbix1/view?usp=sharing&quot;&gt;&lt;em&gt;A Dynamic and Cooperative Tracking System for Crowdfunding&lt;/em&gt;&lt;/a&gt;, The 35th IEEE International Conference on Data Engineering, &lt;strong&gt;&lt;em&gt;ICDE(under review), 2019&lt;/em&gt;&lt;/strong&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=ZV9kWKkX7Z8&quot;&gt;&lt;em&gt;[Video]&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
