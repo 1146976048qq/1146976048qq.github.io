@@ -48,6 +48,9 @@ USTC, Hefei, Anhui, China, 230027
 **Experience**
 - Teaching Assistant, Introduction to Data Science (Prof. [Qi Liu][1-liuqi]), Undergraduate Course in USTC, Fall 2018/2019.
 
+- Deep Learning for Sentiment-Analysis, April 3th, 2018. Lab of BDAA, USTC. _[**Talk**]_ [_[Slide]_][2-Sentiment]
+
+- Interaction Attention Transfer Network, August 14th, 2018. Lab of BDAA, USTC. _[**Talk**]_ [_[Slide]_][3-Interactive]
 
 <!-- Intro: I am currently a second-year graduate student and a member of [Anhui Province Key Laboratory of Big Data Analysis and Application][1-bigdata]. My current research interests are data mining and machine learning, especially financial data analysis and natural language processing. -->
 ``` 
@@ -73,6 +76,9 @@ Intro: I am currently a second-year graduate student and a member of Anhui Provi
 
 <!-- 链接_Experience -->
 [1-liuqi]:    http://staff.ustc.edu.cn/~qiliuql/
+
+[2-Sentiment]:  https://drive.google.com/open?id=1rlcyQVz7Nl8iHUy2qZkdsD_6JDg82D4T
+[3-Interactive]:    https://drive.google.com/open?id=1PrKIN_jSPx-3Q5ojU7y9dLo4Pow-vw8L
 
 <!-- 链接_Projects -->
 [1-bigdata]:    http://sds.ustc.edu.cn/
