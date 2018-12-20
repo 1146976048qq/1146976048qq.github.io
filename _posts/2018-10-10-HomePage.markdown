@@ -50,7 +50,7 @@ USTC, Hefei, Anhui, China, 230027
 
 - Deep Learning for Sentiment-Analysis, Lab of BDAA, USTC, April 3th, 2018. _[Talk]_ [_[Slide]_][2-Sentiment]
 
-- Interaction Attention Transfer Network, Lab of BDAA, USTC, August 14th, 2018. _[Talk]_ [_[Slide]_][3-Interactive]
+- Interaction Attention Transfer Network for Cross-domain Sentiment Classification.(Exsting Research & My Work), Lab of BDAA, USTC, August 14th, 2018. _[Talk]_ [_[Slide]_][3-Interactive]
 
 <!-- Intro: I am currently a second-year graduate student and a member of [Anhui Province Key Laboratory of Big Data Analysis and Application][1-bigdata]. My current research interests are data mining and machine learning, especially financial data analysis and natural language processing. -->
 ``` 
