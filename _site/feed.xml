@@ -5,8 +5,8 @@
     <description>EARNED NOT GIVEN / I AM ALWAYS READY TO ACCEPT CHALLENGE.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 12 Dec 2018 19:31:00 +0800</pubDate>
-    <lastBuildDate>Wed, 12 Dec 2018 19:31:00 +0800</lastBuildDate>
+    <pubDate>Fri, 21 Dec 2018 20:32:06 +0800</pubDate>
+    <lastBuildDate>Fri, 21 Dec 2018 20:32:06 +0800</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -28,12 +28,12 @@ USTC, Hefei, Anhui, China, 230027&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Publications&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;&lt;strong&gt;Kai Zhang&lt;/strong&gt;&lt;/em&gt;, Hefu Zhang, Qi Liu, Hongke Zhao, Hengshu Zhu, Enhong Chen. &lt;a href=&quot;https://drive.google.com/file/d/1ly16bcOwTjgcogafxMqh0xYBpIniVOSb/view?usp=sharing&quot;&gt;&lt;em&gt;Interactive Attention Transfer Network for Cross-domain Sentiment Classification&lt;/em&gt;&lt;/a&gt;, The 33th AAAI Conference on Artificial Intelligence(&lt;em&gt;&lt;strong&gt;AAAI’2019&lt;/strong&gt;&lt;/em&gt;), Honolulu, Hawaii, United states, 2019.1.27-2019.2.2 &lt;a href=&quot;https://drive.google.com/file/d/1efIzwDnLP1CUylCG_SNoksN8xOVLesrR/view&quot;&gt;&lt;em&gt;[Slide]&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;em&gt;&lt;strong&gt;Kai Zhang&lt;/strong&gt;&lt;/em&gt;, Hongke Zhao, Qi Liu, Zhen Pan, Enhong Chen. &lt;a href=&quot;https://drive.google.com/file/d/1xs8nWJAfYYDF8EyliiOmnp66U2gNbix1/view?usp=sharing&quot;&gt;&lt;em&gt;A Dynamic and Cooperative Tracking System for Crowdfunding&lt;/em&gt;&lt;/a&gt;, The 35th IEEE International Conference on Data Engineering, &lt;strong&gt;&lt;em&gt;ICDE(under review), 2019&lt;/em&gt;&lt;/strong&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=ZV9kWKkX7Z8&quot;&gt;&lt;em&gt;[Video]&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
-  &lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;&lt;strong&gt;Kai Zhang&lt;/strong&gt;&lt;/em&gt;, Hefu Zhang, Qi Liu, Hongke Zhao, Hengshu Zhu, Enhong Chen. &lt;a href=&quot;https://drive.google.com/file/d/1ly16bcOwTjgcogafxMqh0xYBpIniVOSb/view?usp=sharing&quot;&gt;&lt;em&gt;Interactive Attention Transfer Network for Cross-domain Sentiment Classification&lt;/em&gt;&lt;/a&gt;, The 33th AAAI Conference on Artificial Intelligence(&lt;em&gt;&lt;strong&gt;AAAI’2019&lt;/strong&gt;&lt;/em&gt;), Honolulu, Hawaii, United states, 2019.1.27-2019.2.2 &lt;a href=&quot;https://drive.google.com/file/d/1efIzwDnLP1CUylCG_SNoksN8xOVLesrR/view&quot;&gt;&lt;em&gt;[Slide]&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- - _**Kai Zhang**_, Hongke Zhao, Qi Liu, Zhen Pan, Enhong Chen. [_A Dynamic and Cooperative Tracking System for Crowdfunding_][2-paper-icde], The 35th IEEE International Conference on Data Engineering, **_ICDE(under review), 2019_** [_[Video]_][2-paper-icde-video] --&gt;
+
+&lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;Enhong Chen, Qi Liu, &lt;em&gt;&lt;strong&gt;Kai Zhang&lt;/strong&gt;&lt;/em&gt;, Hongke Zhao, Hefu Zhang. &lt;a href=&quot;https://drive.google.com/open?id=1tpVaexAJwHwhNcR2ic_VdJMXcWXwIGTY&quot;&gt;&lt;em&gt;A Method and Related Device for Cross-domain Sentiment Classification&lt;/em&gt;&lt;/a&gt;, MP 1825101. &lt;em&gt;[&lt;strong&gt;Patent&lt;/strong&gt;]&lt;/em&gt;&lt;/p&gt;
   &lt;/li&gt;
@@ -45,18 +45,15 @@ USTC, Hefei, Anhui, China, 230027&lt;/p&gt;
 &lt;hr /&gt;
 &lt;!-- 上面空1行，下面空2行！ --&gt;
 
-&lt;p&gt;&lt;strong&gt;Projects&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Projects&lt;/strong&gt;
+&lt;!-- - **Website development**&lt;br&gt;
+-- In March 2018, the School of Data Science, University of Science and Technology of China, was formally established. In May, there was a demand for official website construction. So I took over this task and implemented the official website. June. 2018 ~ July. 2018.&lt;br&gt;
+-- [_The School of Data Science_][1-bigdata] (_**working**_ ), _University of Science and Technology of China_. --&gt;&lt;/p&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Website development&lt;/strong&gt;&lt;br /&gt;
-– In March 2018, the School of Data Science, University of Science and Technology of China, was formally established. In May, there was a demand for official website construction. So I took over this task and implemented the official website. June. 2018 ~ July. 2018.&lt;br /&gt;
-– &lt;a href=&quot;http://sds.ustc.edu.cn/&quot;&gt;&lt;em&gt;The School of Data Science&lt;/em&gt;&lt;/a&gt; (&lt;em&gt;&lt;strong&gt;working&lt;/strong&gt;&lt;/em&gt; ), &lt;em&gt;University of Science and Technology of China&lt;/em&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;User Interest Modeling Competition&lt;/strong&gt; &lt;em&gt;(快手∙用户兴趣建模大赛)&lt;/em&gt;&lt;br /&gt;
+  &lt;li&gt;&lt;strong&gt;User Interest Modeling Competition&lt;/strong&gt; &lt;em&gt;(快手∙用户兴趣建模大赛)&lt;/em&gt;&lt;br /&gt;
 – The theme of the competition is &lt;em&gt;“content-based user interest modeling”&lt;/em&gt;, which requires the use of multimedia content data to model and predict user interaction behavior, and explore the application scenarios of content understanding algorithms in the recommended field. May. 2018 ~ Aug. 2018. &lt;br /&gt;
-– Ranked &lt;strong&gt;14th&lt;/strong&gt; in the preliminary round &lt;a href=&quot;https://www.kesci.com/home/competition/5ad306e633a98340e004f8d1/leaderboard/1&quot;&gt;(14/383)&lt;/a&gt;, Ranked &lt;strong&gt;18th&lt;/strong&gt; in the semi-finals &lt;a href=&quot;https://www.kesci.com/home/competition/5ad306e633a98340e004f8d1/leaderboard/0&quot;&gt;(18/50)&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
+– Ranked &lt;strong&gt;14th&lt;/strong&gt; in the preliminary round &lt;a href=&quot;https://www.kesci.com/home/competition/5ad306e633a98340e004f8d1/leaderboard/1&quot;&gt;(14/383)&lt;/a&gt;, Ranked &lt;strong&gt;18th&lt;/strong&gt; in the semi-finals &lt;a href=&quot;https://www.kesci.com/home/competition/5ad306e633a98340e004f8d1/leaderboard/0&quot;&gt;(18/50)&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
@@ -64,7 +61,15 @@ USTC, Hefei, Anhui, China, 230027&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Experience&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;Teaching Assistant, Introduction to Data Science (Prof. &lt;a href=&quot;http://staff.ustc.edu.cn/~qiliuql/&quot;&gt;Qi Liu&lt;/a&gt;), Undergraduate Course in USTC, Fall 2017/2018.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Teaching Assistant, Introduction to Data Science (Prof. &lt;a href=&quot;http://staff.ustc.edu.cn/~qiliuql/&quot;&gt;Qi Liu&lt;/a&gt;), Undergraduate Course in USTC, Fall 2018/2019.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Deep Learning for Sentiment-Analysis, Lab of BDAA, USTC, April 3th, 2018. &lt;em&gt;[Talk]&lt;/em&gt; &lt;a href=&quot;https://drive.google.com/open?id=1rlcyQVz7Nl8iHUy2qZkdsD_6JDg82D4T&quot;&gt;&lt;em&gt;[Slide]&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Interaction Attention Transfer Network for Cross-domain Sentiment Classification.(Exsting Research &amp;amp; My Work), Lab of BDAA, USTC, August 14th, 2018. &lt;em&gt;[Talk]&lt;/em&gt; &lt;a href=&quot;https://drive.google.com/open?id=1PrKIN_jSPx-3Q5ojU7y9dLo4Pow-vw8L&quot;&gt;&lt;em&gt;[Slide]&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;!-- Intro: I am currently a second-year graduate student and a member of [Anhui Province Key Laboratory of Big Data Analysis and Application][1-bigdata]. My current research interests are data mining and machine learning, especially financial data analysis and natural language processing. --&gt;
