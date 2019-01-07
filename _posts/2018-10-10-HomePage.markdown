@@ -51,8 +51,12 @@ USTC, Hefei, Anhui, China, 230027
 
 - Interaction Attention Transfer Network for Cross-domain Sentiment Classification.(Exsting Research & My Work), Lab of BDAA, USTC, August 14th, 2018. _[Talk]_ [_[Slide]_][3-Interactive]
 
+* * * 
+<!-- 上面空1行，下面空2行！ -->
+
+
 **Hobbies**
-- ike open source tools, love Linux (especially [Arch-Sys][1-arch], now I'm working on it.), enjoy the experience of black technology.
+- Like open source tools, love Linux (especially [Arch-Sys][1-arch], now I'm working with it), enjoy the experience of black technology.
 
 - Familiar with computer hardware, passionate about DIY equipment.
 
