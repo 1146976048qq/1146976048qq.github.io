@@ -56,11 +56,11 @@ USTC, Hefei, Anhui, China, 230027
 
 
 **Hobbies**
-- Like open source tools, love Linux (especially [Arch-Sys][1-arch], now I'm working with it), enjoy the experience of black technology.
+- Like open source tools, love Linux (especially [Arch-Linux][1-arch], now I'm working with it), enjoy the experience of black technology.
 
 - Familiar with computer hardware, passionate about DIY equipment.
 
-- And some useless technologies ... 
+- And some useless but cool technologies ... 
 
 <!-- Intro: I am currently a second-year graduate student and a member of [Anhui Province Key Laboratory of Big Data Analysis and Application][1-bigdata]. My current research interests are data mining and machine learning, especially financial data analysis and natural language processing. -->
 ``` 
