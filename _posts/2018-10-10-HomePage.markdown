@@ -57,7 +57,9 @@ USTC, Hefei, Anhui, China, 230027
 * * * 
 <!-- 上面空1行，下面空2行！ -->
 **Skills**
-- Programming:  C/C++, Python, Java, PHP, SQL, CSS, HTML         - Tools:  LaTeX, Vim, Linux，Emacs
+- Programming:  C/C++, Python, Java, PHP, SQL, CSS, HTML         
+
+- Tools:  LaTeX, Vim, Linux，Emacs
 
 
 * * *
