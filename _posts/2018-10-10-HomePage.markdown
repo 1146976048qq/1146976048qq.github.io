@@ -36,9 +36,12 @@ USTC, Hefei, Anhui, China, 230027
 -- In March 2018, the School of Data Science, University of Science and Technology of China, was formally established. In May, there was a demand for official website construction. So I took over this task and implemented the official website. June. 2018 ~ July. 2018.<br>
 -- [_The School of Data Science_][1-bigdata] (_**working**_ ), _University of Science and Technology of China_.
 
-- **User Interest Modeling Competition** _(快手∙用户兴趣建模大赛)_<br>
+- **Financial Platform Crowdfunding Demo**
+-- As the financial team of our laboratory produced a lot of novel research results (KDD, IJCAI) on the emerging Internet finance platform. We started to develop an Integrated Predictive Modeling Framework under the Crowdfunding Environment, with the aim of adopting a data-driven approach and use a lot of historical data to solve the various challenges on the crowdfunding platform. Based on this platform, a current research work is being reviewed in ICDE’19. June. 2017 ~ March. 2018. 
+
+<!-- - **User Interest Modeling Competition** _(快手∙用户兴趣建模大赛)_<br>
 -- The theme of the competition is _"content-based user interest modeling"_, which requires the use of multimedia content data to model and predict user interaction behavior, and explore the application scenarios of content understanding algorithms in the recommended field. May. 2018 ~ Aug. 2018. <br>
--- Ranked **14th** in the preliminary round [(14/383)][2-competition-first], Ranked **18th** in the semi-finals [(18/50)][2-competition-second].
+-- Ranked **14th** in the preliminary round [(14/383)][2-competition-first], Ranked **18th** in the semi-finals [(18/50)][2-competition-second]. -->
 
 * * * 
 <!-- 上面空1行，下面空2行！ -->
