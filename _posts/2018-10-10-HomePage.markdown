@@ -36,7 +36,7 @@ USTC, Hefei, Anhui, China, 230027
 -- In March 2018, the School of Data Science, University of Science and Technology of China, was formally established. In May, there was a demand for official website construction. So I took over this task and implemented the official website. June. 2018 ~ July. 2018.<br>
 -- [_The School of Data Science_][1-bigdata] (_**working**_ ), _University of Science and Technology of China_.
 
-- **Financial Platform Crowdfunding Demo**
+- **Financial Platform Crowdfunding Demo** _(安徽省大数据分析与应用实验室)_<br>
 -- As the financial team of our laboratory produced a lot of novel research results (KDD, IJCAI) on the emerging Internet finance platform. We started to develop an Integrated Predictive Modeling Framework under the Crowdfunding Environment, with the aim of adopting a data-driven approach and use a lot of historical data to solve the various challenges on the crowdfunding platform. Based on this platform, a current research work is being reviewed in ICDE’19. June. 2017 ~ March. 2018. 
 
 <!-- - **User Interest Modeling Competition** _(快手∙用户兴趣建模大赛)_<br>
@@ -56,8 +56,11 @@ USTC, Hefei, Anhui, China, 230027
 
 * * * 
 <!-- 上面空1行，下面空2行！ -->
+**Skills**
+- Programming:  C/C++, Python, Java, PHP, SQL, CSS, HTML         - Tools:  LaTeX, Vim, Linux，Emacs
 
 
+* * *
 **Hobbies**
 - Like open source tools, love Linux (especially [Arch-Linux][1-arch], now I'm working with it), enjoy the experience of black technology.
 
