@@ -48,6 +48,8 @@ USTC, Hefei, Anhui, China, 230027
 
 
 **Experience**
+- Research intern, Ant-financial AI Department.
+
 - Teaching Assistant, Introduction to Data Science (Prof. [Qi Liu][1-liuqi]), Undergraduate Course in USTC, Fall 2018/2019.
 
 - Deep Learning for Sentiment-Analysis, Lab of BDAA, USTC, April 3th, 2018. _[Talk]_ [_[Slide]_][2-Sentiment]
