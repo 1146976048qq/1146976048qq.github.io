@@ -4,7 +4,7 @@ title:  "HomePage"
 ---
 
 #### Kai Zhang（张凯)<br>
-#### Ph.D candidate, co-supervised by Prof. [<u>Enhong Chen<u>][url-chen] and Prof. [<u>Qi Liu<u>][url-liu]<br>
+#### Ph.D candidate, co-supervised by Prof. [<u>Enhong Chen</u>][url-chen] and Prof. [<u>Qi Liu</u>][url-liu]<br>
 
 [<u>Anhui Province Key Laboratory of Big Data Analysis and Application,</u>][1-bigdata-lab]<br>
 [<u>University of Science and Technology of China </u>(<u>USTC</u>).][2-USTC]
@@ -21,7 +21,15 @@ USTC, Hefei, Anhui, China, 230027
 **Publications**
 - _**Kai Zhang**_, Hefu Zhang, Qi Liu, Hongke Zhao, Hengshu Zhu, Enhong Chen. [_Interactive Attention Transfer Network for Cross-domain Sentiment Classification_][1-paper-aaai], The 33th AAAI Conference on Artificial Intelligence(_**AAAI'2019**_), Honolulu, Hawaii, United states, 2019.1.27-2019.2.2 [_[Slide]_][1-paper-aaai-slide][_[Poster]_][1-paper-aaai-poster]
 
-- _**Kai Zhang**_, Hongke Zhao, Qi Liu, Zhen Pan, Enhong Chen. [_A Dynamic and Cooperative Tracking System for Crowdfunding_][2-paper-icde], The 35th IEEE International Conference on Data Engineering, **_ICDE(under review), 2019_** [_[Video]_][2-paper-icde-video]
+- _**Kai Zhang**_, Hefu Zhang, Qi Liu, Hongke Zhao, Hengshu Zhu, Enhong Chen. [_Interactive Attention Transfer Network for Cross-domain Sentiment Classification_][1-paper-aaai], The 33th AAAI Conference on Artificial Intelligence(_**AAAI'2019**_), Honolulu, Hawaii, United states, 2019.1.27-2019.2.2 [_[Slide]_][1-paper-aaai-slide][_[Poster]_][1-paper-aaai-poster]
+
+- _**Kai Zhang**_, Hefu Zhang, Qi Liu, Hongke Zhao, Hengshu Zhu, Enhong Chen. [_Interactive Attention Transfer Network for Cross-domain Sentiment Classification_][1-paper-aaai], The 33th AAAI Conference on Artificial Intelligence(_**AAAI'2019**_), Honolulu, Hawaii, United states, 2019.1.27-2019.2.2 [_[Slide]_][1-paper-aaai-slide][_[Poster]_][1-paper-aaai-poster]
+
+- _**张凯**_， 赵洪科， 刘淇， 潘镇， 陈恩红. [_基于动静态表征的众筹协同预测方法_][soft], 软件学报'2020
+
+- _**Kai Zhang**_, Hongke Zhao, Qi Liu, Zhen Pan, Enhong Chen. [_A Dynamic and Cooperative Tracking System for Crowdfunding (Chinese)_][2-paper-icde], _**CCML'2019 best paper award**_
+
+- _**Kai Zhang**_, Hongke Zhao, Qi Liu, Zhen Pan, Enhong Chen. [_A Dynamic and Cooperative Tracking System for Crowdfunding_][2-paper-icde], arXiv preprint arXiv:2002.00847 [_[Video]_][2-paper-icde-video]
 
 - Enhong Chen, Qi Liu, _**Kai Zhang**_, Hongke Zhao, Hefu Zhang. [_A Method and Related Device for Cross-domain Sentiment Classification_][3-patent-aaai], MP 1825101. _[**Patent**]_
 
@@ -87,11 +95,13 @@ Intro: I am currently a second-year graduate student and a member of Anhui Provi
 [url-chen]: http://staff.ustc.edu.cn/~cheneh/
 [url-liu]: http://staff.ustc.edu.cn/~qiliuql/
 
+[soft]: https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.13328/j.cnki.jos.005921
+
 <!-- -------------------------------------------------------------------------------------------链接_Publications -->
 [1-paper-aaai]:    https://drive.google.com/file/d/1ly16bcOwTjgcogafxMqh0xYBpIniVOSb/view?usp=sharing
 [1-paper-aaai-slide]:   https://drive.google.com/open?id=1n-t9h_Rm5PzkSCOUtKBjSDtGItEyuJuO
 [1-paper-aaai-poster]:  https://drive.google.com/open?id=16JgBW1cbQn6g4qPoWMm9dfxBZ6AachUv
-[2-paper-icde]:    https://drive.google.com/file/d/1xs8nWJAfYYDF8EyliiOmnp66U2gNbix1/view?usp=sharing
+[2-paper-icde]:    https://arxiv.org/pdf/2002.00847.pdf
 [2-paper-icde-video]:   https://www.youtube.com/watch?v=ZV9kWKkX7Z8
 [3-patent-aaai]:   https://drive.google.com/open?id=1tpVaexAJwHwhNcR2ic_VdJMXcWXwIGTY
 <!-- [4-patent-kdd]:    https://arxiv.org/pdf/1808.01075.pdf -->
