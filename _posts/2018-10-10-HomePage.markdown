@@ -4,12 +4,12 @@ title:  "HomePage"
 ---
 
 #### Kai Zhang（张凯)<br>
-#### M.s , Graduate Student<br>
+#### Ph.D candidate, co-supervised by Prof. [<u>Enhong Chen<u>][url-chen] and Prof. [<u>Qi Liu<u>][url-liu]<br>
 
 [<u>Anhui Province Key Laboratory of Big Data Analysis and Application,</u>][1-bigdata-lab]<br>
 [<u>University of Science and Technology of China </u>(<u>USTC</u>).][2-USTC]
 
-Email: [<u>sa517494</u>@<u>mail.ustc.edu.cn</u>][3-sa517494],   [<u>kkzhang0808<u>@</u>gmail.com</u>][4-gmail]
+Email: [<u>kkzhang0808</u>@<u>mail.ustc.edu.cn</u>][3-mail],   [<u>kkzhang0808<u>@</u>gmail.com</u>][4-gmail]
 <!-- Email: [sa517494@mail.ustc.edu.cn][sa517494],   [kkzhang0808@gmail.com][gmail] -->
 
 Room 205, Science and Technology Laboratory Building, West Campus,  
@@ -81,10 +81,11 @@ Intro: I am currently a second-year graduate student and a member of Anhui Provi
 <!-- -------------------------------------------------------------------------------------------链接_Info -->
 [1-bigdata-lab]:  http://bigdata.ustc.edu.cn/
 [2-USTC]:  http://www.ustc.edu.cn/
-[3-sa517494]:  mailto:sa517494@mail.ustc.edu.cn
+[3-mail]:  mailto:kkzhang0808@mail.ustc.edu.cn
 [4-gmail]:  mailto:kkzhang0808@gmail.com
 
-
+[url-chen]: http://staff.ustc.edu.cn/~cheneh/
+[url-liu]: http://staff.ustc.edu.cn/~qiliuql/
 
 <!-- -------------------------------------------------------------------------------------------链接_Publications -->
 [1-paper-aaai]:    https://drive.google.com/file/d/1ly16bcOwTjgcogafxMqh0xYBpIniVOSb/view?usp=sharing
