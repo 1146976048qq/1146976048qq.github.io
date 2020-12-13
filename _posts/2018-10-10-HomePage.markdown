@@ -19,15 +19,13 @@ USTC, Hefei, Anhui, China, 230027
 <!-- 上面空1行，下面空2行！ -->
 
 **Publications**
-- _**Kai Zhang**_, Hefu Zhang, Qi Liu, Hongke Zhao, Hengshu Zhu, Enhong Chen. [_Interactive Attention Transfer Network for Cross-domain Sentiment Classification_][1-paper-aaai], The 33th AAAI Conference on Artificial Intelligence(_**AAAI'2019**_), Honolulu, Hawaii, United states, 2019.1.27-2019.2.2 [_[Slide]_][1-paper-aaai-slide][_[Poster]_][1-paper-aaai-poster]
+- _**Kai Zhang**_, Qi Liu, Hao Qian, Biao Xiang, Qing Cui, Jun Zhou, Enhong Chen. [_EATN: An Efﬁcient Adaptive Transfer Network for Aspect-level Sentiment Analysis_][3-paper-tkde], IEEE Transactions on Knowledge and Data Engineering (_**IEEE TKDE**_).(Under Review)
+
+- _**Kai Zhang**_, Hao Qian, Qing Cui, Qi Liu, Longfei Li, Jun Zhou, Jianhui Ma, Enhong Chen. [_Multi-Interactive Attention Network for Fine-grained Feature Learning in CTR Prediction_][2-paper-wsdm], The 14th ACM Conference on Web Search and Data Mining (_**WSDM'2021**_), Jerusalem, Israel, March 8-12 2021. accepted.
 
 - _**Kai Zhang**_, Hefu Zhang, Qi Liu, Hongke Zhao, Hengshu Zhu, Enhong Chen. [_Interactive Attention Transfer Network for Cross-domain Sentiment Classification_][1-paper-aaai], The 33th AAAI Conference on Artificial Intelligence(_**AAAI'2019**_), Honolulu, Hawaii, United states, 2019.1.27-2019.2.2 [_[Slide]_][1-paper-aaai-slide][_[Poster]_][1-paper-aaai-poster]
 
-- _**Kai Zhang**_, Hefu Zhang, Qi Liu, Hongke Zhao, Hengshu Zhu, Enhong Chen. [_Interactive Attention Transfer Network for Cross-domain Sentiment Classification_][1-paper-aaai], The 33th AAAI Conference on Artificial Intelligence(_**AAAI'2019**_), Honolulu, Hawaii, United states, 2019.1.27-2019.2.2 [_[Slide]_][1-paper-aaai-slide][_[Poster]_][1-paper-aaai-poster]
-
-- _**张凯**_， 赵洪科， 刘淇， 潘镇， 陈恩红. [_基于动静态表征的众筹协同预测方法_][soft], 软件学报'2020
-
-- _**Kai Zhang**_, Hongke Zhao, Qi Liu, Zhen Pan, Enhong Chen. [_A Dynamic and Cooperative Tracking System for Crowdfunding (Chinese)_][2-paper-icde], _**CCML'2019 best paper award**_
+- _**张凯**_， 赵洪科， 刘淇， 潘镇， 陈恩红. [_基于动静态表征的众筹协同预测方法_][soft], 软件学报'2020，_**CCML'2019 best paper award**_
 
 - _**Kai Zhang**_, Hongke Zhao, Qi Liu, Zhen Pan, Enhong Chen. [_A Dynamic and Cooperative Tracking System for Crowdfunding_][2-paper-icde], arXiv preprint arXiv:2002.00847 [_[Video]_][2-paper-icde-video]
 
@@ -35,14 +33,19 @@ USTC, Hefei, Anhui, China, 230027
 
 - Enhong Chen, Qi Liu, Zheng Li, Hongke Zhao, _**Kai Zhang**_, [_A sequence recommendation method based on user behavior difference modeling_][4-patent-kdd], Patent No.201810414330.3. _[**Patent**]_ [_[Video]_][5-patent-kdd-video]
 
+- ……
+
 * * * 
 <!-- 上面空1行，下面空2行！ -->
 
 
 **Projects**
+- **Alibaba Research Intern (RI) Programme**
+-- I entered Alibaba in March 2019 to conduct research in the project “Research on Financial Intelligence Algorithm”, during which I mainly engaged in the research of recommendation algorithm, the research and development of NLP technology, and the online recommendation business of Alipay. At the same time, I also participated in some scientific research and innovation work of the team and submitted many algorithm patents and papers. Some results of our cooperation are published on WSDM'2021. 
+
 - **Website development** _(中科大∙大数据学院)_<br>
 -- In March 2018, the School of Data Science, University of Science and Technology of China, was formally established. In May, there was a demand for official website construction. So I took over this task and implemented the official website. June. 2018 ~ July. 2018.<br>
--- [_The School of Data Science_][1-bigdata] (_**working**_ ), _University of Science and Technology of China_.
+-- [_The School of Data Science_][1-bigdata] (_**working now**_ ), _University of Science and Technology of China_.
 
 - **Financial Platform Crowdfunding Demo** _(安徽省大数据分析与应用实验室)_<br>
 -- As the financial team of our laboratory produced a lot of novel research results (KDD, IJCAI) on the emerging Internet finance platform. We started to develop an Integrated Predictive Modeling Framework under the Crowdfunding Environment, with the aim of adopting a data-driven approach and use a lot of historical data to solve the various challenges on the crowdfunding platform. Based on this platform, a current research work is being reviewed in ICDE’19. June. 2017 ~ March. 2018. 
@@ -56,7 +59,9 @@ USTC, Hefei, Anhui, China, 230027
 
 
 **Experience**
-- Research intern, Ant-financial AI Department.
+- Research intern, Ant-financial AI Department. 2019-2020
+
+- Teaching Assistant, Frontiers of Data Mining and Machine Learning (Prof. [Enhong Chen][url-chen]), Graduate Course in USTC, Spring 2019/2020.
 
 - Teaching Assistant, Introduction to Data Science (Prof. [Qi Liu][1-liuqi]), Undergraduate Course in USTC, Fall 2018/2019.
 
@@ -71,6 +76,8 @@ USTC, Hefei, Anhui, China, 230027
 
 - Tools:  LaTeX, Vim, Linux，Emacs
 
+- Neural network libraries: Tensorflow, Pytorch, Keras
+
 
 * * *
 **Hobbies**
@@ -82,7 +89,7 @@ USTC, Hefei, Anhui, China, 230027
 
 <!-- Intro: I am currently a second-year graduate student and a member of [Anhui Province Key Laboratory of Big Data Analysis and Application][1-bigdata]. My current research interests are data mining and machine learning, especially financial data analysis and natural language processing. -->
 ``` 
-Intro: I am currently a second-year graduate student and a member of Anhui Province Key Laboratory of Big Data Analysis and Application. My current research interests are data mining and machine learning, especially financial data analysis and natural language processing.
+Intro: I am currently a second-year Ph.D student and a member of Anhui Province Key Laboratory of Big Data Analysis and Application. My current research interests are data mining and machine learning, especially financial data analysis and natural language processing (cross-domain sentiment analysis & aspect-level sentiment analysis & domain adaptation in NLP).
 ```
 
 
@@ -95,7 +102,7 @@ Intro: I am currently a second-year graduate student and a member of Anhui Provi
 [url-chen]: http://staff.ustc.edu.cn/~cheneh/
 [url-liu]: http://staff.ustc.edu.cn/~qiliuql/
 
-[soft]: https://kns.cnki.net/kcms/detail/detail.aspx?doi=10.13328/j.cnki.jos.005921
+[soft]: http://www.jos.org.cn/html/2020/4/5921.htm
 
 <!-- -------------------------------------------------------------------------------------------链接_Publications -->
 [1-paper-aaai]:    https://drive.google.com/file/d/1ly16bcOwTjgcogafxMqh0xYBpIniVOSb/view?usp=sharing
