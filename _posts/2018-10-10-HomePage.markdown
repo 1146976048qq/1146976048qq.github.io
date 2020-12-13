@@ -115,8 +115,8 @@ Intro: I am currently a second-year Ph.D student and a member of Anhui Province 
 [4-patent-kdd]:    http://www.soopat.com/Patent/201810414330
 [5-patent-kdd-video]:   https://www.youtube.com/watch?v=GJDuBoDlMQw
 
-[3-paper-wsdm]： https://arxiv.org/abs/2002.00847
-[4-paper-tkde]： https://arxiv.org/abs/2002.00847
+[3-paper-wsdm]: https://arxiv.org/abs/2002.00847
+[4-paper-tkde]: https://arxiv.org/abs/2002.00847
 
 
 
