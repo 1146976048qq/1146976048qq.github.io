@@ -41,7 +41,7 @@ USTC, Hefei, Anhui, China, 230027
 
 **Projects**
 - **Alibaba Research Intern (RI) Programme** [_(阿里巴巴-人才计划)_][url-ali] <br>
--- I entered Alibaba in March 2019 to conduct research in the project “Research on Financial Intelligence Algorithm”, during which I mainly engaged in the research of recommendation algorithm, the research and development of NLP technology, and the online recommendation business of Alipay. At the same time, I also participated in some scientific research and innovation work of the team and submitted many algorithm patents and papers. Some results of our cooperation are published on WSDM'2021. 
+-- I entered Alibaba in March 2019 to conduct research in the project “[Research on Financial Intelligence Algorithm][url-ali-2]”, during which I mainly engaged in the research of recommendation algorithm, the research and development of NLP technology, and the online recommendation business of Alipay. At the same time, I also participated in some scientific research and innovation work of the team and submitted many algorithm patents and papers. Some results of our cooperation are published on WSDM'2021. 
 
 - **Website development** _(中科大∙大数据学院)_<br>
 -- In March 2018, the School of Data Science, University of Science and Technology of China, was formally established. In May, there was a demand for official website construction. So I took over this task and implemented the official website. June. 2018 ~ July. 2018.<br>
@@ -128,7 +128,7 @@ Intro: I am currently a second-year Ph.D student and a member of Anhui Province 
 [3-Interactive]:    https://drive.google.com/open?id=1nbIaSMvJ6X8qb4V5o78rSqxhHqK7cBef
 
 [url-ali]: https://campus.alibaba.com/talentPlan.htm
-
+[url-ali-2]: https://campus.alibaba.com/projectDetail.htm?spm=a1z3e1.11796652.0.0.546560d3A4TLi9&id=113&batchId=82&batchName=%E7%A0%94%E7%A9%B6%E5%9E%8B%E5%AE%9E%E4%B9%A0%E7%94%9F
 
 <!-- -------------------------------------------------------------------------------------------链接_Projects -->
 [1-arch]:   https://www.archlinux.org/
