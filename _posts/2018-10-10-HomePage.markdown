@@ -40,7 +40,7 @@ USTC, Hefei, Anhui, China, 230027
 
 
 **Projects**
-- **Alibaba Research Intern (RI) Programme**
+- **Alibaba Research Intern (RI) Programme** [_(阿里巴巴-人才计划)_][url-ali] <br>
 -- I entered Alibaba in March 2019 to conduct research in the project “Research on Financial Intelligence Algorithm”, during which I mainly engaged in the research of recommendation algorithm, the research and development of NLP technology, and the online recommendation business of Alipay. At the same time, I also participated in some scientific research and innovation work of the team and submitted many algorithm patents and papers. Some results of our cooperation are published on WSDM'2021. 
 
 - **Website development** _(中科大∙大数据学院)_<br>
@@ -127,7 +127,7 @@ Intro: I am currently a second-year Ph.D student and a member of Anhui Province 
 [2-Sentiment]:      https://drive.google.com/open?id=1wD3yjzNJckml6KVdLWYAqRPuSoAvHQig
 [3-Interactive]:    https://drive.google.com/open?id=1nbIaSMvJ6X8qb4V5o78rSqxhHqK7cBef
 
-
+[url-ali]: https://campus.alibaba.com/talentPlan.htm
 
 
 <!-- -------------------------------------------------------------------------------------------链接_Projects -->
