@@ -105,7 +105,7 @@ Intro: I am currently a second-year Ph.D student and a member of Anhui Province 
 [soft]: http://www.jos.org.cn/html/2020/4/5921.htm
 
 <!-- -------------------------------------------------------------------------------------------链接_Publications -->
-[1-paper-aaai]:    https://drive.google.com/file/d/1ly16bcOwTjgcogafxMqh0xYBpIniVOSb/view?usp=sharing
+[1-paper-aaai]:    http://staff.ustc.edu.cn/~cheneh/paper_pdf/2019/Kai-Zhang-AAAI.pdf
 [1-paper-aaai-slide]:   https://drive.google.com/open?id=1n-t9h_Rm5PzkSCOUtKBjSDtGItEyuJuO
 [1-paper-aaai-poster]:  https://drive.google.com/open?id=16JgBW1cbQn6g4qPoWMm9dfxBZ6AachUv
 [2-paper-icde]:    https://arxiv.org/pdf/2002.00847.pdf
