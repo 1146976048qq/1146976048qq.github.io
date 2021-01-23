@@ -29,11 +29,12 @@ USTC, Hefei, Anhui, China, 230027
 
 - _**Kai Zhang**_, Hongke Zhao, Qi Liu, Zhen Pan, Enhong Chen. [_A Dynamic and Cooperative Tracking System for Crowdfunding_][2-paper-icde], arXiv preprint arXiv:2002.00847. [_[Video]_][2-paper-icde-video]
 
-- Enhong Chen, Qi Liu, _**Kai Zhang**_, Hongke Zhao, Hefu Zhang. [_A Method and Related Device for Cross-domain Sentiment Classification_][3-patent-aaai], MP 1825101. _[**Patent**]_
 
-- Enhong Chen, Qi Liu, Zheng Li, Hongke Zhao, _**Kai Zhang**_, [_A sequence recommendation method based on user behavior difference modeling_][4-patent-kdd], Patent No.201810414330.3. _[**Patent**]_ [_[Video]_][5-patent-kdd-video]
+-- Enhong Chen, Qi Liu, _**Kai Zhang**_, Hongke Zhao, Hefu Zhang. [_A Method and Related Device for Cross-domain Sentiment Classification_][3-patent-aaai], MP 1825101. _[**Patent**]_ [_[notification]_][4-patent-aaai-done]
 
-- … …
+-- Enhong Chen, Qi Liu, Zheng Li, Hongke Zhao, _**Kai Zhang**_, [_A sequence recommendation method based on user behavior difference modeling_][4-patent-kdd], Patent No.201810414330.3. _[**Patent**]_ [_[Video]_][5-patent-kdd-video]
+
+-- … …
 
 * * * 
 <!-- 上面空1行，下面空2行！ -->
@@ -111,6 +112,7 @@ Intro: I am currently a second-year Ph.D student and a member of Anhui Province 
 [2-paper-icde]:    https://arxiv.org/pdf/2002.00847.pdf
 [2-paper-icde-video]:   https://www.youtube.com/watch?v=ZV9kWKkX7Z8
 [3-patent-aaai]:   https://drive.google.com/open?id=1tpVaexAJwHwhNcR2ic_VdJMXcWXwIGTY
+[4-patent-aaai-done]:	https://drive.google.com/file/d/186QGeQO-ahh6hiYb2KVWNDOk6PA3u1je/view?usp=sharing
 
 [4-patent-kdd]:    http://www.soopat.com/Patent/201810414330
 [5-patent-kdd-video]:   https://www.youtube.com/watch?v=GJDuBoDlMQw
