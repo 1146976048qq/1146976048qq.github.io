@@ -30,11 +30,11 @@ USTC, Hefei, Anhui, China, 230027
 - _**Kai Zhang**_, Hongke Zhao, Qi Liu, Zhen Pan, Enhong Chen. [_A Dynamic and Cooperative Tracking System for Crowdfunding_][2-paper-icde], arXiv preprint arXiv:2002.00847. [_[Video]_][2-paper-icde-video]
 
 
-<br>-- Enhong Chen, Qi Liu, _**Kai Zhang**_, Hongke Zhao, Hefu Zhang. [_A Method and Related Device for Cross-domain Sentiment Classification_][3-patent-aaai], MP 1825101. _[**Patent**]_ [_[notification]_][4-patent-aaai-done]
+<!-- <br>-- Enhong Chen, Qi Liu, _**Kai Zhang**_, Hongke Zhao, Hefu Zhang. [_A Method and Related Device for Cross-domain Sentiment Classification_][3-patent-aaai], MP 1825101. _[**Patent**]_ [_[notification]_][4-patent-aaai-done]
 
 <br>-- Enhong Chen, Qi Liu, Zheng Li, Hongke Zhao, _**Kai Zhang**_, [_A sequence recommendation method based on user behavior difference modeling_][4-patent-kdd], Patent No.201810414330.3. _[**Patent**]_ [_[Video]_][5-patent-kdd-video]
 
-<br>-- … …
+<br>-- … … -->
 
 * * * 
 <!-- 上面空1行，下面空2行！ -->
