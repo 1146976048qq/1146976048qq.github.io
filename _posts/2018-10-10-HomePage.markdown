@@ -30,11 +30,11 @@ USTC, Hefei, Anhui, China, 230027
 - _**Kai Zhang**_, Hongke Zhao, Qi Liu, Zhen Pan, Enhong Chen. [_A Dynamic and Cooperative Tracking System for Crowdfunding_][2-paper-icde], arXiv preprint arXiv:2002.00847. [_[Video]_][2-paper-icde-video]
 
 
--- Enhong Chen, Qi Liu, _**Kai Zhang**_, Hongke Zhao, Hefu Zhang. [_A Method and Related Device for Cross-domain Sentiment Classification_][3-patent-aaai], MP 1825101. _[**Patent**]_ [_[notification]_][4-patent-aaai-done]
+<br>-- Enhong Chen, Qi Liu, _**Kai Zhang**_, Hongke Zhao, Hefu Zhang. [_A Method and Related Device for Cross-domain Sentiment Classification_][3-patent-aaai], MP 1825101. _[**Patent**]_ [_[notification]_][4-patent-aaai-done]
 
--- Enhong Chen, Qi Liu, Zheng Li, Hongke Zhao, _**Kai Zhang**_, [_A sequence recommendation method based on user behavior difference modeling_][4-patent-kdd], Patent No.201810414330.3. _[**Patent**]_ [_[Video]_][5-patent-kdd-video]
+<br>-- Enhong Chen, Qi Liu, Zheng Li, Hongke Zhao, _**Kai Zhang**_, [_A sequence recommendation method based on user behavior difference modeling_][4-patent-kdd], Patent No.201810414330.3. _[**Patent**]_ [_[Video]_][5-patent-kdd-video]
 
--- … …
+<br>-- … …
 
 * * * 
 <!-- 上面空1行，下面空2行！ -->
@@ -45,15 +45,15 @@ USTC, Hefei, Anhui, China, 230027
 -- I entered Alibaba in March 2019 to conduct research in the project “[Research on Financial Intelligence Algorithm][url-ali-2]”, during which I mainly engaged in the research of recommendation algorithm, the research and development of NLP technology, and the online recommendation business of Alipay. At the same time, I also participated in some scientific research and innovation work of the team and submitted many algorithm patents and papers. Some results of our cooperation are published on WSDM'2021. 
 
 - **Website development** _(中科大∙大数据学院)_<br>
--- In March 2018, the School of Data Science, University of Science and Technology of China, was formally established. In May, there was a demand for official website construction. So I took over this task and implemented the official website. June. 2018 ~ July. 2018.<br>
+-- In March 2018, the School of Data Science, University of Science and Technology of China, was formally established. In May, there was a demand for official website construction. Therefore, I took on this task and completed the development of the official website. June. 2018 ~ July. 2018.<br>
 -- [_The School of Data Science_][1-bigdata] (_**working now**_ ), _University of Science and Technology of China_.
 
 - **Financial Platform Crowdfunding Demo** _(安徽省大数据分析与应用实验室)_<br>
--- As the financial team of our laboratory produced a lot of novel research results (KDD, IJCAI) on the emerging Internet finance platform. We started to develop an Integrated Predictive Modeling Framework under the Crowdfunding Environment, with the aim of adopting a data-driven approach and use a lot of historical data to solve the various challenges on the crowdfunding platform. Based on this platform, a current research work is being accepted in CCML’2019. June. 2017 ~ March. 2018. 
+-- As the financial team of our laboratory produced a lot of novel research results (KDD, IJCAI) on the emerging Internet finance platform. We started to develop an Integrated Predictive Modeling Framework under the Crowdfunding Environment, with the aim of adopting a data-driven approach and use a lot of historical data to solve the various challenges on the crowdfunding platform. Based on this platform, one research work has been accepted by CCML’2019. June. 2017 ~ March. 2018. 
 
 - **User Interest Modeling Competition** _(快手∙用户兴趣建模大赛)_<br>
 -- The theme of the competition is _"content-based user interest modeling"_, which requires the use of multimedia content data to model and predict user interaction behavior, and explore the application scenarios of content understanding algorithms in the recommended field. May. 2018 ~ Aug. 2018. <br>
--- Ranked **14th** in the preliminary round [(14/383)][2-competition-first], Ranked **18th** in the semi-finals [(18/50)][2-competition-second].
+-- Ranked **14th** in the preliminary round [(14/583)][2-competition-first], Ranked **18th** in the semi-finals [(18/50)][2-competition-second].
 
 * * * 
 <!-- 上面空1行，下面空2行！ -->
