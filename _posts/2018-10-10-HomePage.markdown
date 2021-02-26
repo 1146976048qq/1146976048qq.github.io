@@ -6,7 +6,7 @@ title:  "HomePage"
 #### Kai Zhang（张凯)<br>
 #### Ph.D candidate, co-supervised by Prof. [<u>Enhong Chen</u>][url-chen] and Prof. [<u>Qi Liu</u>][url-liu]<br>
 
-[<u>Anhui Province Key Laboratory of Big Data Analysis and Application,</u>][1-bigdata-lab]<br>
+[<u>Anhui Province Key Laboratory of Big Data Analysis and Application (BDAA),</u>][1-bigdata-lab]<br>
 [<u>University of Science and Technology of China </u>(<u>USTC</u>).][2-USTC]
 
 Email: [<u>kkzhang0808</u>@<u>mail.ustc.edu.cn</u>][3-mail],   [<u>kkzhang0808<u>@</u>gmail.com</u>][4-gmail]
@@ -21,7 +21,7 @@ USTC, Hefei, Anhui, China, 230027
 **Publications**
 - _**Kai Zhang**_, Qi Liu, Hao Qian, Biao Xiang, Qing Cui, Jun Zhou, Enhong Chen. [_EATN: An Efﬁcient Adaptive Transfer Network for Aspect-level Sentiment Analysis_][4-paper-tkde], IEEE Transactions on Knowledge and Data Engineering (_**IEEE TKDE**_). (Under Review)
 
-- _**Kai Zhang**_, Hao Qian, Qing Cui, Qi Liu, Longfei Li, Jun Zhou, Jianhui Ma, Enhong Chen. [_Multi-Interactive Attention Network for Fine-grained Feature Learning in CTR Prediction_][3-paper-wsdm], The 14th ACM Conference on Web Search and Data Mining (_**WSDM'2021**_), Jerusalem, Israel, March 8-12 2021. accepted
+- _**Kai Zhang**_, Hao Qian, Qing Cui, Qi Liu, Longfei Li, Jun Zhou, Jianhui Ma, Enhong Chen. [_Multi-Interactive Attention Network for Fine-grained Feature Learning in CTR Prediction_][3-paper-wsdm], The 14th ACM Conference on Web Search and Data Mining (_**WSDM'2021**_), Jerusalem, Israel, March 8-12 2021. [_[Slide]_][_[Poster]_]
 
 - _**Kai Zhang**_, Hefu Zhang, Qi Liu, Hongke Zhao, Hengshu Zhu, Enhong Chen. [_Interactive Attention Transfer Network for Cross-domain Sentiment Classification_][1-paper-aaai], The 33th AAAI Conference on Artificial Intelligence(_**AAAI'2019**_), Honolulu, Hawaii, United states, 2019.1.27-2019.2.2. [_[Slide]_][1-paper-aaai-slide][_[Poster]_][1-paper-aaai-poster]
 
@@ -66,8 +66,23 @@ USTC, Hefei, Anhui, China, 230027
 * * * 
 <!-- 上面空1行，下面空2行！ -->
 
+**Honors and Awards**
+- WSDM Travel Award. 2021
+
+- First Class Scholarship. 2020
+
+- First Class Scholarship. 2019
+
+- China National Scholarship for doctoral students. 2019
+
+- AAAI Travel Award. 2019
+
+* * * 
+<!-- 上面空1行，下面空2行！ -->
 
 **Experience**
+- Research Assistant, Laboratory of BDAA, USTC, Feb. 2017 ~ Present.
+
 - Research intern, Ant-financial AI Department. 2019-2020
 
 - Teaching Assistant, Frontiers of Data Mining and Machine Learning (Prof. [Enhong Chen][url-chen]), Graduate Course in USTC, Spring 2019/2020.
