@@ -1,5 +1,5 @@
 ---
-title:  "HomePage"
+title:  "Welcome to Kai-Zhang's homepage"
 # date:   2016-01-08 15:04:23
 ---
 
@@ -19,9 +19,9 @@ USTC, Hefei, Anhui, China, 230027
 <!-- 上面空1行，下面空2行！ -->
 
 **Publications**
-- _**Kai Zhang**_, Qi Liu, Hao Qian, Biao Xiang, Qing Cui, Jun Zhou, Enhong Chen. [_EATN: An Efﬁcient Adaptive Transfer Network for Aspect-level Sentiment Analysis_][4-paper-tkde], IEEE Transactions on Knowledge and Data Engineering (_**IEEE TKDE**_). (Under Review)
+- _**Kai Zhang**_, Qi Liu, Hao Qian, Biao Xiang, Qing Cui, Jun Zhou, Enhong Chen. [_EATN: An Efﬁcient Adaptive Transfer Network for Aspect-level Sentiment Analysis_][4-paper-tkde], IEEE Transactions on Knowledge and Data Engineering (_**IEEE TKDE'2021**_).
 
-- _**Kai Zhang**_, Hao Qian, Qing Cui, Qi Liu, Longfei Li, Jun Zhou, Jianhui Ma, Enhong Chen. [_Multi-Interactive Attention Network for Fine-grained Feature Learning in CTR Prediction_][3-paper-wsdm], The 14th ACM Conference on Web Search and Data Mining (_**WSDM'2021**_), Jerusalem, Israel, March 8-12 2021. [_[Slide]_][_[Poster]_]
+- _**Kai Zhang**_, Hao Qian, Qing Cui, Qi Liu, Longfei Li, Jun Zhou, Jianhui Ma, Enhong Chen. [_Multi-Interactive Attention Network for Fine-grained Feature Learning in CTR Prediction_][3-paper-wsdm], The 14th ACM Conference on Web Search and Data Mining (_**WSDM'2021**_), Jerusalem, Israel, March 8-12 2021. [_[Slide]_][2-paper-wsdm-slide][_[Poster]_][2-paper-wsdm-poster]
 
 - _**Kai Zhang**_, Hefu Zhang, Qi Liu, Hongke Zhao, Hengshu Zhu, Enhong Chen. [_Interactive Attention Transfer Network for Cross-domain Sentiment Classification_][1-paper-aaai], The 33th AAAI Conference on Artificial Intelligence(_**AAAI'2019**_), Honolulu, Hawaii, United states, 2019.1.27-2019.2.2. [_[Slide]_][1-paper-aaai-slide][_[Poster]_][1-paper-aaai-poster]
 
@@ -45,7 +45,7 @@ USTC, Hefei, Anhui, China, 230027
 
 **Projects**
 - **Alibaba Research Intern (RI) Programme** [_(阿里巴巴-人才计划)_][url-ali] <br>
--- I entered Alibaba in March 2019 to conduct research in the project “[Research on Financial Intelligence Algorithm][url-ali-2]”, during which I mainly engaged in the research of recommendation algorithm, the research and development of NLP technology, and the online recommendation business of Alipay. At the same time, I also participated in some scientific research and innovation work of the team and submitted many algorithm patents and papers. Some results of our cooperation are published on WSDM'2021. 
+-- I entered Alibaba in March 2019 to conduct research in the project “[Research on Financial Intelligence Algorithm][url-ali-2]”, during which I mainly engaged in the research of recommendation algorithm, the research and development of NLP technology, and the online recommendation business of Alipay. At the same time, I also participated in some scientific research and innovation work of the team and submitted many algorithm patents and papers. Some research results of our cooperation are published on WSDM'2021. 
 
 - **Website development** _(中科大∙大数据学院)_<br>
 -- In March 2018, the School of Data Science, University of Science and Technology of China, was formally established. In May, there was a demand for official website construction. So I took over this task and implemented the official website. June. 2018 ~ July. 2018.<br>
@@ -108,7 +108,7 @@ USTC, Hefei, Anhui, China, 230027
 
 <!-- Intro: I am currently a second-year graduate student and a member of [Anhui Province Key Laboratory of Big Data Analysis and Application][1-bigdata]. My current research interests are data mining and machine learning, especially financial data analysis and natural language processing. -->
 ``` 
-Intro: I am currently a second-year Ph.D student and a member of Anhui Province Key Laboratory of Big Data Analysis and Application. My current research interests are data mining and machine learning, especially financial data analysis and natural language processing (cross-domain sentiment analysis & aspect-level sentiment analysis & domain adaptation in NLP).
+Intro: I am currently a second-year Ph.D student and a member of Anhui Province Key Laboratory of Big Data Analysis and Application. My current research interests are data mining and machine learning, especially financial data analysis and natural language processing (recommender system & cross-domain sentiment analysis & aspect-level sentiment analysis & domain adaptation in NLP).
 ```
 
 
@@ -127,6 +127,10 @@ Intro: I am currently a second-year Ph.D student and a member of Anhui Province 
 [1-paper-aaai]:    http://staff.ustc.edu.cn/~cheneh/paper_pdf/2019/Kai-Zhang-AAAI.pdf
 [1-paper-aaai-slide]:   https://drive.google.com/open?id=1n-t9h_Rm5PzkSCOUtKBjSDtGItEyuJuO
 [1-paper-aaai-poster]:  https://drive.google.com/open?id=16JgBW1cbQn6g4qPoWMm9dfxBZ6AachUv
+
+[2-paper-wsdm-poster]:  https://drive.google.com/file/d/1oejhUDnTjWmwZ0uTicCmj1dXr256CiDp/view?usp=sharing
+[2-paper-wsdm-slide]:   https://drive.google.com/file/d/1URILcpQYp_fDIAZCBwxoSR-mreb6lejK/view?usp=sharing
+
 [2-paper-icde]:    https://arxiv.org/pdf/2002.00847.pdf
 [2-paper-icde-video]:   https://www.youtube.com/watch?v=ZV9kWKkX7Z8
 [3-patent-aaai]:   https://drive.google.com/open?id=1tpVaexAJwHwhNcR2ic_VdJMXcWXwIGTY
@@ -136,7 +140,7 @@ Intro: I am currently a second-year Ph.D student and a member of Anhui Province 
 [5-patent-kdd-video]:   https://www.youtube.com/watch?v=GJDuBoDlMQw
 
 [3-paper-wsdm]: https://arxiv.org/pdf/2012.06968.pdf
-[4-paper-tkde]: https://arxiv.org/abs/2002.00847
+[4-paper-tkde]: https://drive.google.com/file/d/1duvWhtYhixAYDRRy87M2ry__-SNhHRMF/view?usp=sharing
 
 
 
