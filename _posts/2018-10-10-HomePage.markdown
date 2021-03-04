@@ -19,13 +19,13 @@ USTC, Hefei, Anhui, China, 230027
 <!-- 上面空1行，下面空2行！ -->
 
 **Publications**
-- _**Kai Zhang**_, Qi Liu, Hao Qian, Biao Xiang, Qing Cui, Jun Zhou, Enhong Chen. [_EATN: An Efﬁcient Adaptive Transfer Network for Aspect-level Sentiment Analysis_][4-paper-tkde], IEEE Transactions on Knowledge and Data Engineering (_**IEEE TKDE'2021, CCF A**_).
+- _**Kai Zhang**_, Qi Liu, Hao Qian, Biao Xiang, Qing Cui, Jun Zhou, Enhong Chen. [_EATN: An Efﬁcient Adaptive Transfer Network for Aspect-level Sentiment Analysis_][4-paper-tkde], IEEE Transactions on Knowledge and Data Engineering (_**IEEE TKDE'2021**_, CCF A).
 
-- _**Kai Zhang**_, Hao Qian, Qing Cui, Qi Liu, Longfei Li, Jun Zhou, Jianhui Ma, Enhong Chen. [_Multi-Interactive Attention Network for Fine-grained Feature Learning in CTR Prediction_][3-paper-wsdm], The 14th ACM Conference on Web Search and Data Mining (_**WSDM'2021, CCF B**_), Jerusalem, Israel, March 8-12 2021. [_[Slide]_][2-paper-wsdm-slide][_[Poster]_][2-paper-wsdm-poster]
+- _**Kai Zhang**_, Hao Qian, Qing Cui, Qi Liu, Longfei Li, Jun Zhou, Jianhui Ma, Enhong Chen. [_Multi-Interactive Attention Network for Fine-grained Feature Learning in CTR Prediction_][3-paper-wsdm], The 14th ACM Conference on Web Search and Data Mining (_**WSDM'2021**_, CCF B), Jerusalem, Israel, March 8-12 2021. [_[Slide]_][2-paper-wsdm-slide][_[Poster]_][2-paper-wsdm-poster]
 
-- _**Kai Zhang**_, Hefu Zhang, Qi Liu, Hongke Zhao, Hengshu Zhu, Enhong Chen. [_Interactive Attention Transfer Network for Cross-domain Sentiment Classification_][1-paper-aaai], The 33th AAAI Conference on Artificial Intelligence(_**AAAI'2019, CCF A**_), Honolulu, Hawaii, United states, 2019.1.27-2019.2.2. [_[Slide]_][1-paper-aaai-slide][_[Poster]_][1-paper-aaai-poster]
+- _**Kai Zhang**_, Hefu Zhang, Qi Liu, Hongke Zhao, Hengshu Zhu, Enhong Chen. [_Interactive Attention Transfer Network for Cross-domain Sentiment Classification_][1-paper-aaai], The 33th AAAI Conference on Artificial Intelligence(_**AAAI'2019**_, CCF A), Honolulu, Hawaii, United states, 2019.1.27-2019.2.2. [_[Slide]_][1-paper-aaai-slide][_[Poster]_][1-paper-aaai-poster]
 
-- _**张凯**_， 赵洪科， 刘淇， 潘镇， 陈恩红. [_基于动静态表征的众筹协同预测方法_][soft], (_**软件学报'2020**, CCF A 中文_)，win the _**CCML'2019 best paper**_ award.
+- _**张凯**_， 赵洪科， 刘淇， 潘镇， 陈恩红. [_基于动静态表征的众筹协同预测方法_][soft], (_**软件学报'2020**)，2020, 31(4): 967-980.（获中国机器学习会议（CCML 2019）“最佳学生论文奖”）.（中文核心, CCF A类期刊）
 
 - _**Kai Zhang**_, Hongke Zhao, Qi Liu, Zhen Pan, Enhong Chen. [_A Dynamic and Cooperative Tracking System for Crowdfunding_][2-paper-icde], arXiv preprint arXiv:2002.00847. [_[Video]_][2-paper-icde-video]
 
