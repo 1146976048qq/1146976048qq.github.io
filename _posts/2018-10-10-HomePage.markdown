@@ -19,7 +19,7 @@ USTC, Hefei, Anhui, China, 230027
 <!-- 上面空1行，下面空2行！ -->
 
 **Publications**
-- _**Kai Zhang**_, Qi Liu, Hao Qian, Biao Xiang, Qing Cui, Jun Zhou, Enhong Chen. [_EATN: An Efﬁcient Adaptive Transfer Network for Aspect-level Sentiment Analysis_][4-paper-tkde][2-paper-wsdm-slide], IEEE Transactions on Knowledge and Data Engineering (_**IEEE TKDE'2021**_). (CCF A类期刊)
+- _**Kai Zhang**_, Qi Liu, Hao Qian, Biao Xiang, Qing Cui, Jun Zhou, Enhong Chen. [_EATN: An Efﬁcient Adaptive Transfer Network for Aspect-level Sentiment Analysis_][3-paper-wsdm], IEEE Transactions on Knowledge and Data Engineering (_**IEEE TKDE'2021**_). (CCF A类期刊)
 
 - _**Kai Zhang**_, Hao Qian, Qing Cui, Qi Liu, Longfei Li, Jun Zhou, Jianhui Ma, Enhong Chen. [_Multi-Interactive Attention Network for Fine-grained Feature Learning in CTR Prediction_][3-paper-wsdm], The 14th ACM Conference on Web Search and Data Mining (_**WSDM'2021**_), Jerusalem, Israel, March 8-12 2021. [_[Slide]_][2-paper-wsdm-slide][_[Poster]_][2-paper-wsdm-poster] (CCF B类会议)
 
