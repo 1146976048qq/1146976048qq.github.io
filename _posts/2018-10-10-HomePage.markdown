@@ -1,4 +1,4 @@
-<!-- ---
+---
 title:  "Welcome to Kai-Zhang's homepage"
 # date:   2016-01-08 15:04:23
 ---
@@ -165,4 +165,4 @@ Intro: I am currently a second-year Ph.D student and a member of Anhui Province 
 [1-bigdata]:    http://sds.ustc.edu.cn/
 [2-competition-first]:    https://www.kesci.com/home/competition/5ad306e633a98340e004f8d1/leaderboard/1
 [2-competition-second]:    https://www.kesci.com/home/competition/5ad306e633a98340e004f8d1/leaderboard/0
- -->
+
