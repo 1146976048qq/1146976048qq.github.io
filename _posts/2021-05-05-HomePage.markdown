@@ -1,7 +1,7 @@
 ---
-title:  "Welcome to Kai-Zhang's homepage", Please refer to [http://home.ustc.edu.cn/~kkzhang/](http://home.ustc.edu.cn/~sa517494/).
+title:  "Welcome to Kai-Zhang's homepage"
 # date:   2016-01-08 15:04:23
 ---
 
-
+Please refer to [http://home.ustc.edu.cn/~kkzhang/](http://home.ustc.edu.cn/~sa517494/).
 
